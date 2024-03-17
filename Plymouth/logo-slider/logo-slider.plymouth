@@ -61,5 +61,5 @@ UseFirmwareBackground=false
 SuppressMessages=true
 ProgressBarShowPercentComplete=true
 UseProgressBar=true
-Title=Install Firmware-Updates...
+Title=Installing Firmware Updates...
 SubTitle=Please do not turn off your computer.
